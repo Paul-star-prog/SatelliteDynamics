@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\bin\Release\LAB_2_OPRS_FORMS.exe.config
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\bin\Release\LAB_2_OPRS_FORMS.exe
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\bin\Release\LAB_2_OPRS_FORMS.pdb
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.csprojAssemblyReference.cache
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.GravitationModels.resources
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.Properties.Resources.resources
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.csproj.GenerateResource.cache
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.exe
+C:\Users\123\source\repos\LAB_2_OPRS_FORMS\LAB_2_OPRS_FORMS\obj\Release\LAB_2_OPRS_FORMS.pdb
